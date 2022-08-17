@@ -45,7 +45,7 @@ def definition_from_string(def_str: str) -> Tuple:
                 named = True
                 continue
             temp = {
-                "name": token.split("]")[0].split("[")[0],
+                "name": token.split("]")[0].split("[")[-1],
                 "optional?": True,
                 "named?": named,
             }
