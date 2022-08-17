@@ -11,9 +11,9 @@ Currently unable to load definitions from code. Therefore nothing.
 # JSONS WIP:
 
 gambit - [https://gambitscheme.org/latest/manual/](https://gambitscheme.org/latest/manual/)
-[X] - baseline fn definitions
-[ ] - with docstrings
-[ ] - with types ????
+- [X] baseline fn definitions
+- [ ] with docstrings
+- [ ] with types ????
 
 # JSON interface
 
