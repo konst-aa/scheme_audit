@@ -522,7 +522,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "stat2",
                     "optional?": true,
                     "named?": false
                 }
@@ -1575,7 +1575,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -1645,7 +1645,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "c-to-scheme",
                     "optional?": true,
                     "named?": false
                 },
@@ -1655,7 +1655,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "cleanup",
                     "optional?": true,
                     "named?": false
                 }
@@ -1797,7 +1797,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "subject",
                     "optional?": true,
                     "named?": false
                 }
@@ -1808,7 +1808,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -1819,12 +1819,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "substring",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -1917,7 +1917,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -1966,7 +1966,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -1982,7 +1982,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2068,12 +2068,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -2099,12 +2099,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -2131,7 +2131,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -2251,7 +2251,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "step",
                     "optional?": true,
                     "named?": false
                 }
@@ -2309,7 +2309,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -2475,7 +2475,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "prefix",
                     "optional?": true,
                     "named?": false
                 }
@@ -2491,7 +2491,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "hash",
                     "optional?": true,
                     "named?": false
                 }
@@ -2518,7 +2518,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "hash",
                     "optional?": true,
                     "named?": false
                 }
@@ -2561,7 +2561,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "env",
                     "optional?": true,
                     "named?": false
                 }
@@ -2641,7 +2641,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2662,7 +2662,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2678,7 +2678,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2694,7 +2694,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2710,7 +2710,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -2726,32 +2726,32 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "display-env?",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "all-frames?",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "max-head",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "max-tail",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "depth",
                     "optional?": true,
                     "named?": false
                 }
@@ -2762,12 +2762,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 }
@@ -3047,17 +3047,17 @@
             "arity": 3,
             "args": [
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -3073,7 +3073,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thunk",
                     "optional?": true,
                     "named?": false
                 }
@@ -3127,12 +3127,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 }
@@ -3558,7 +3558,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "handler",
                     "optional?": true,
                     "named?": false
                 }
@@ -4306,7 +4306,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -4448,12 +4448,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "step",
                     "optional?": true,
                     "named?": false
                 }
@@ -4528,7 +4528,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -4810,7 +4810,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "len",
                     "optional?": true,
                     "named?": false
                 }
@@ -4837,7 +4837,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "len",
                     "optional?": true,
                     "named?": false
                 }
@@ -4902,7 +4902,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -6866,7 +6866,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "precision",
                     "optional?": true,
                     "named?": false
                 }
@@ -6893,7 +6893,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "precision",
                     "optional?": true,
                     "named?": false
                 }
@@ -7162,7 +7162,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -7285,12 +7285,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7332,7 +7332,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -7348,12 +7348,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7379,12 +7379,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7490,7 +7490,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -7613,12 +7613,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7660,7 +7660,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -7676,12 +7676,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7707,12 +7707,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7818,7 +7818,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -7941,12 +7941,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -7988,7 +7988,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -8004,12 +8004,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8035,12 +8035,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8146,7 +8146,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -8269,12 +8269,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8316,7 +8316,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -8332,12 +8332,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8363,12 +8363,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8474,7 +8474,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -8597,12 +8597,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8644,7 +8644,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -8660,12 +8660,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8691,12 +8691,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8802,7 +8802,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -8925,12 +8925,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -8972,7 +8972,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -8988,12 +8988,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9019,12 +9019,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9130,7 +9130,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -9253,12 +9253,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9300,7 +9300,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -9316,12 +9316,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9347,12 +9347,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9458,7 +9458,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -9581,12 +9581,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9628,7 +9628,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -9644,12 +9644,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9675,12 +9675,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9786,7 +9786,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -9909,12 +9909,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -9956,7 +9956,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -9972,12 +9972,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -10003,12 +10003,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -10114,7 +10114,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "fill",
                     "optional?": true,
                     "named?": false
                 }
@@ -10237,12 +10237,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -10284,7 +10284,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 }
@@ -10300,12 +10300,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -10331,12 +10331,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "start",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "end",
                     "optional?": true,
                     "named?": false
                 }
@@ -10431,7 +10431,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "encoder",
                     "optional?": true,
                     "named?": false
                 }
@@ -10447,7 +10447,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "decoder",
                     "optional?": true,
                     "named?": false
                 }
@@ -10474,7 +10474,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "default",
                     "optional?": true,
                     "named?": false
                 }
@@ -10722,7 +10722,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "default",
                     "optional?": true,
                     "named?": false
                 }
@@ -10743,7 +10743,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "value",
                     "optional?": true,
                     "named?": false
                 }
@@ -10902,7 +10902,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "table2-takes-precedence?",
                     "optional?": true,
                     "named?": false
                 }
@@ -10923,7 +10923,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "table2-takes-precedence?",
                     "optional?": true,
                     "named?": false
                 }
@@ -10955,12 +10955,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 }
@@ -10976,22 +10976,22 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "input-port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "output-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -11175,12 +11175,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout-val",
                     "optional?": true,
                     "named?": false
                 }
@@ -11207,12 +11207,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "default",
                     "optional?": true,
                     "named?": false
                 }
@@ -11223,12 +11223,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "default",
                     "optional?": true,
                     "named?": false
                 }
@@ -11293,7 +11293,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 }
@@ -11358,12 +11358,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread",
                     "optional?": true,
                     "named?": false
                 }
@@ -11379,12 +11379,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "condition-variable",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 }
@@ -11406,7 +11406,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "name",
                     "optional?": true,
                     "named?": false
                 }
@@ -11482,12 +11482,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "set-filter",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "get-filter",
                     "optional?": true,
                     "named?": false
                 }
@@ -11498,7 +11498,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-exception-handler",
                     "optional?": true,
                     "named?": false
                 }
@@ -12739,7 +12739,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-current-directory",
                     "optional?": true,
                     "named?": false
                 }
@@ -12755,7 +12755,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "origin-directory",
                     "optional?": true,
                     "named?": false
                 }
@@ -12771,12 +12771,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "allow-relative?",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "origin-directory",
                     "optional?": true,
                     "named?": false
                 }
@@ -12939,7 +12939,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "replace?",
                     "optional?": true,
                     "named?": false
                 }
@@ -12993,7 +12993,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "recursive?",
                     "optional?": true,
                     "named?": false
                 }
@@ -13004,7 +13004,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "path-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -13020,7 +13020,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "capture?",
                     "optional?": true,
                     "named?": false
                 }
@@ -13031,7 +13031,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "status",
                     "optional?": true,
                     "named?": false
                 }
@@ -13052,7 +13052,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "default",
                     "optional?": true,
                     "named?": false
                 }
@@ -13068,7 +13068,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -13137,7 +13137,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "chase?",
                     "optional?": true,
                     "named?": false
                 }
@@ -13153,7 +13153,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "chase?",
                     "optional?": true,
                     "named?": false
                 }
@@ -13466,12 +13466,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "atime",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "mtime",
                     "optional?": true,
                     "named?": false
                 }
@@ -13974,7 +13974,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -13985,12 +13985,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "reader",
                     "optional?": true,
                     "named?": false
                 }
@@ -14006,7 +14006,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14017,7 +14017,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14028,12 +14028,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "level",
                     "optional?": true,
                     "named?": false
                 }
@@ -14087,7 +14087,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thunk",
                     "optional?": true,
                     "named?": false
                 }
@@ -14108,7 +14108,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thunk",
                     "optional?": true,
                     "named?": false
                 }
@@ -14174,7 +14174,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14185,7 +14185,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14201,7 +14201,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14212,22 +14212,22 @@
             "arity": 4,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "separator",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "include-separator?",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "max-length",
                     "optional?": true,
                     "named?": false
                 }
@@ -14253,12 +14253,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "need",
                     "optional?": true,
                     "named?": false
                 }
@@ -14284,7 +14284,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14349,7 +14349,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14360,7 +14360,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14376,7 +14376,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14402,12 +14402,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "need",
                     "optional?": true,
                     "named?": false
                 }
@@ -14433,7 +14433,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14546,12 +14546,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "position",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "whence",
                     "optional?": true,
                     "named?": false
                 }
@@ -14567,12 +14567,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "position",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "whence",
                     "optional?": true,
                     "named?": false
                 }
@@ -14696,12 +14696,12 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "timeout-val",
                     "optional?": true,
                     "named?": false
                 }
@@ -14777,7 +14777,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "thread-group",
                     "optional?": true,
                     "named?": false
                 }
@@ -14799,7 +14799,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "options",
                     "optional?": true,
                     "named?": false
                 }
@@ -14831,7 +14831,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "udp-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14842,7 +14842,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "udp-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14858,7 +14858,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "udp-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14884,7 +14884,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "udp-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14910,7 +14910,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "udp-port",
                     "optional?": true,
                     "named?": false
                 }
@@ -14954,7 +14954,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -14965,7 +14965,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -14976,7 +14976,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15003,7 +15003,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15035,7 +15035,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15051,12 +15051,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "vector-or-settings1",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "vector-or-settings2",
                     "optional?": true,
                     "named?": false
                 }
@@ -15078,7 +15078,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15089,7 +15089,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15100,7 +15100,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15127,7 +15127,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15159,7 +15159,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15175,12 +15175,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "string-or-settings1",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "string-or-settings2",
                     "optional?": true,
                     "named?": false
                 }
@@ -15207,7 +15207,7 @@
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "n",
                     "optional?": true,
                     "named?": false
                 }
@@ -15218,7 +15218,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15229,7 +15229,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15240,7 +15240,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 }
@@ -15267,7 +15267,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15299,7 +15299,7 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings",
                     "optional?": true,
                     "named?": false
                 },
@@ -15315,12 +15315,12 @@
             "arity": 2,
             "args": [
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings1",
                     "optional?": true,
                     "named?": false
                 },
                 {
-                    "name": "",
+                    "name": "u8vector-or-settings2",
                     "optional?": true,
                     "named?": false
                 }
@@ -15342,7 +15342,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -15353,7 +15353,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -15364,7 +15364,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
@@ -15375,7 +15375,7 @@
             "arity": 1,
             "args": [
                 {
-                    "name": "",
+                    "name": "new-value",
                     "optional?": true,
                     "named?": false
                 }
